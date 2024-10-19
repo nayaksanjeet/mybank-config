@@ -5,7 +5,7 @@ accounts:
   message: "Hey, welcome to myBank accounts related webhook APIs"
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
-    email: "aishwarya@mybank.com"
+    email: "{cipher}f1fe520f01c2b3a2faabfa2175937330851c85e37472195bece2bf8a389750878baab95faa299cf27fb6965e1c10d183"
   onCallSupport:
     - (453) 392-4829
     - (236) 203-0384
