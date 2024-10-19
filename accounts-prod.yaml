@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Hey, welcome to myBank accounts related webhook APIs"
+  message: "Hey, welcome to myBank accounts related production APIs"
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
     email: "{cipher}dc18dca59df7ed42c0883eebce838d179af3e8d25639dffd9fb4763361110db0dffe0ac0eeddcad377edcd3dd8a758ff"
